@@ -13,5 +13,5 @@ Esta página servirá como hub que permitirá navegar por los diferentes retos p
 |-----------------|-----------|------------|
 | Verify | Forense | Fácil |
 | Scan Surprise | Forense | Fácil |
-| <a href="https://github.com/JoseManuelMdlV/Secret-of-the-Polyglot">Secret of the Polyglot</a> | Forense | Fácil |
+| <a href="https://github.com/jomovega/Secret-of-the-Polyglot">Secret of the Polyglot</a> | Forense | Fácil |
 | CanYouSee | Forense | Fácil |
